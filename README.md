@@ -1,4 +1,4 @@
-![sac_introduce](https://ibb.co/hRKtvYYP)
+![sac_introduce](https://i.ibb.co/99qCjZZF/sac.png)
 # SAC - Simple Archive Creator.
 Simple and fast archive maker
 ## Dependencies
