@@ -1,4 +1,4 @@
-![sac_introduce](https://github.com/user-attachments/assets/c72291c9-016c-4a15-a464-95211fd3bfa2)
+![sac_introduce](https://ibb.co/hRKtvYYP)
 # SAC - Simple Archive Creator.
 Simple and fast archive maker
 ## Dependencies
