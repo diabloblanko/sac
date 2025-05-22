@@ -61,7 +61,7 @@ void printhelp(void) {
 
 void printver(void) {
     printf(" ____    _    ____\n"
-    "/ ___|  / \\  / ___| Release: SacV1\n"
+    "/ ___|  / \\  / ___| Release: SacV1.1\n"
     "\\___ \\ / _ \\| |\n"
     " ___) / ___ \\ |___  Made with Love, ViM and Clang.\n"
     "|____/_/   \\_\\____|\n"); }
