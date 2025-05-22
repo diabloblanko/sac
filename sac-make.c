@@ -86,7 +86,7 @@ int main(int argc, char *argv[]) {
 	    printhelp();
 	    return 1; }
     if (argc < 2) { printhelp(); return 1; }
-    if (file_count == 0) { fprintf(stderr, "[ERR] No files specified\n"); printhelp; return 1;}
+    if (file_count == 0) { fprintf(stderr, "[ERR] No files specified\n"); printhelp(); return 1;}
 
     create_archive(argv[1], &argv[2], argc - 2);
     return 0;
