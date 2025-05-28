@@ -1,5 +1,5 @@
 ![sac_introduce](https://github.com/user-attachments/assets/c72291c9-016c-4a15-a464-95211fd3bfa2)
-# SAC - Simple Archive Creator.
+# MOVED TO CODEBERG.ORG/DIABLOBLANCO/SAC !!!!
 Simple and fast archive maker
 ## Dependencies
 clang
