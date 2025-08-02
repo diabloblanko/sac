@@ -287,8 +287,8 @@ void printhelp(void) {
 void printver(void) {
     printf(" ____    _    ____\n"
            "/ ___|  / \\  / ___| Release: SacV2.0\n"
-           "\\___ \\ / _ \\| |\n"
-           " ___) / ___ \\ |___  Build: sacv2-cherryos\n"
+           "\\___ \\ / _ \\| |   Built with love\n"
+           " ___) / ___ \\ |___  \n"
            "|____/_/   \\_\\____|\n");
 }
 
